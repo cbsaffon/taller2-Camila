@@ -10,3 +10,5 @@ if d>c:
     print(f"d es mayor a c, {d} > {c}")
 else:
     print(f"c es mayor a d, {c} > {d}")
+#operación 4
+e=a-b
